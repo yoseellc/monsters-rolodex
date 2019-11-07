@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Andromeda Italic",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Operator Mono Lig, Fira Code iScript, Hack ,Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "100",
+    "prettier.semi": false
+}
